@@ -16,15 +16,15 @@ msgstr "好的"
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr "更新可用 %s"
+msgstr "有可用更新 %s"
 
 #: ../client/application/game/game.cpp:172
 msgid "Quick pause"
-msgstr "快速暂停"
+msgstr "即时暂停"
 
 #: ../client/application/game/game.cpp:178
 msgid "Quick pause %s"
-msgstr "快速暂停 %s"
+msgstr "即时暂停 %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
